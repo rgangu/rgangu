@@ -1,6 +1,6 @@
 # Hi, I'm Rohit 👋
 -------------------
-I am a machine learning research engineer at PlantVillage, and the ML/AI Lead Engineer for Partsimony.
+I am a machine learning research engineer at [PlantVillage](plantvillage.psu.edu) , and the ML/AI Lead Engineer for Partsimony.
 
 Feel free to check out my repos - from projects I've done at hackathons, to experiments. 
 
