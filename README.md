@@ -2,7 +2,7 @@
 -------------------
 I am a data scientist, with interests in NLP, statistical modeling, and computer vision.
 
-Feel free to check out my repos - from projects I've done at hackathons, to experiments. Sorry, don't have too much work stuff here - for obvious confidentiality reasons. 
+Feel free to check out my repos - from projects I've done, to experiments. Sorry, don't have too much work stuff here - for obvious confidentiality reasons. 
 
 You can reach me at rbg5181 (AT) gmail (DOT) com.
 <!--
